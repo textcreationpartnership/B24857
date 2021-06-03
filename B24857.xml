@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Lieutenant and council. Ormonde. Whereas we the Lord Lieutenant and Council are required by letters from the Lords of his Majesties most honourable Privy-council in England, dated the sixth of February, 1684. to publish in this Kingdom a proclamation signed by His Majesty: which followeth in these words: A proclamation signifying his majesties pleasures, that all men being in office of Government at the decease of the Late King His Majesties most dear and most entirely beloved brother, shall so continue until His Majeties further directions.</title>
+            <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24857</idno><idno type="EEBO-CITATION">99886315</idno>
+  <idno type="VID">186576</idno>
+  <idno type="EEBO-PROQUEST">2248538486</idno>
+  
+            <idno type="STC">Wing I1008</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[4]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R225824</idno>
+            <idno type="STC">ESTC R227135</idno>
+            <idno type="PROQUEST">ocm99886315</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886315e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24857)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186576)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Lieutenant and council. Ormonde. Whereas we the Lord Lieutenant and Council are required by letters from the Lords of his Majesties most honourable Privy-council in England, dated the sixth of February, 1684. to publish in this Kingdom a proclamation signed by His Majesty: which followeth in these words: A proclamation signifying his majesties pleasures, that all men being in office of Government at the decease of the Late King His Majesties most dear and most entirely beloved brother, shall so continue until His Majeties further directions.</title>
+                  <author>Ireland. Lord Lieutenant (1677-1685 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>England and Wales. Sovereign (1685-1688 : James II). Forasmuch as it hat pleased almighty God lately to call unto his infinite mercy the most high and mighty prince, King Charles the second, ...</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke, printer to the Kings most Excellent Majesty, and are to be sold by Andrew Crook in Skinner-row, and Samuel Helsham at the Coledge-arms in Castle-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1684</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at the Council-Chamber in Dublin, this eleventh day of February, 1684.</note>
+                  <note>Arms 187; Steele notation: by  vy  2) Go-  As.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186576:1"/>
+            <head>
+               <figure>
+                  <figDesc>English coat of arms, circa 1684</figDesc>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant AND COUNCIL.</head>
+            <opener>
+               <signed>ORMONDE.</signed>
+            </opener>
+            <p>WHereas We the Lord Lieutenant and Council are required by Letters from the Lords of His Majesties most Honourable Pri<g ref="char:EOLhyphen"/>vy-Council in England, Dated the sixth of February, 1684. to publish in this Kingdom a Proclamation Signed by His Majesty: Which followeth in these words:</p>
+            <div type="proclamation">
+               <argument>
+                  <p>A Proclamation signifying His Majesties Pleasure, that all men being in Office of Government at the Decease of the Late King His Majesties most Dear and most Entirely Beloved Brother, shall so continue until His Majesties further Directions.</p>
+               </argument>
+               <opener>
+                  <signed>JAMES R.</signed>
+               </opener>
+               <p>
+                  <seg rend="decorInit">F</seg>Orasmuch as it hath pleased Almighty God lately to call un<g ref="char:EOLhyphen"/>to his infinite mercy the most High and Mighty Prince, King <hi>CHARLES</hi> the Second, of most Blessed Memory, the King's most Dear and most entirely Beloved Brother, by whose Decease the Authority and Power of most part of the Offices, and places of Jurisdiction and Government within this Realm, and in the Realm of <hi>Ireland</hi> did cease and fail; the Soveraign Person failing, from whom the same were de<g ref="char:EOLhyphen"/>rived; the King's most Excellent Majesty, in his Princely Wisdom, &amp; Care of the State (reserving to his own Judgment hereafter the Refor<g ref="char:EOLhyphen"/>mation &amp; Redress of any abuses in Misgovernment, upon due Knowledge &amp; Exa<g ref="char:EOLhyphen"/>mination thereof) is pleased, and hath so expressly fignified; That all persons that at the time of the Decease of the late King, his dearly beloved Brother, were duly and Lawfully possessed of, or invested in any Office, or Place of Authority of Government, either Civil or Military, within this Realm of <hi>England,</hi> or in the Realm of <hi>Ireland,</hi> or in any other His Majesties Dominions belonging thereunto, and namely, all Presidents, Lieutenants, Vice-Presidents, Judges, Justices, Sheriffs, Deputy-Lieutenants, Commissioners of Musters, Justices of Peace, and all others in place of Government, either meaner or Superior, as aforesaid, and all other Officers and Ministers, whose Interests and Estates in their Offices are determi<g ref="char:EOLhyphen"/>ned, or ceased, by the means aforementioned, shall be, and shall hold themselves continued in the said Places, and Offices, as formerly they held and enjoyed the same, until His Majesties Pleasure be further known.</p>
+               <pb facs="tcp:186576:2"/>
+               <p>And that in the mean while, for the Preservation of the Peace, and necessary Proceedings in matters of Justice, and for the Safety and Service af the State, all the said Persons, of whatsoever Degree or Condition, may not fail every one se<g ref="char:EOLhyphen"/>verally, according to his Place, Office, or Charge, to proceed in the performance and execution of all Duties thereunto belonging, as formerly appertained unto them, and every of them, while the Late King's Majesty was living.</p>
+               <p>And further, His Majesty doth hereby will and Command all and singular His Highness's Subjects, of what Estate, Dignity or Degree, they or any of them be, to be aiding, helping and assisting, and at the Commandment of the said Of<g ref="char:EOLhyphen"/>ficers and Ministers, in the performance and Execution of the said Offices and Places, as they and every of them tender His Majesties pleasure, and will an<g ref="char:EOLhyphen"/>swer for the contrary at their utmost perils.</p>
+               <p>And further, His Majesty's Will and Pleasure, and express Commandment is, That all Orders and Directions made or given by the Lords of the Privy Council of the late King, in his Life time, shall be obeyed and performed by all and e<g ref="char:EOLhyphen"/>very person and persons, and all and every thing and things to be done thereup<g ref="char:EOLhyphen"/>on, shall proceed as fully and amply, as the same should have been obeyed, or done in the Life of the said late King, His Majesties most Dear and entirely Be<g ref="char:EOLhyphen"/>loved Brother.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at the Court at</hi> Whitehall <date>
+                        <hi>the sixth day of</hi> February, <hi>in the First year of His Ma<g ref="char:EOLhyphen"/>jesties Reign, of</hi> England, Scotland, France <hi>and</hi> Ireland.</date>
+                  </dateline> God Save the KING.
+<signed>A True Copy. <hi>John Nicolas.</hi>
+                  </signed>
+               </closer>
+               <closer/>
+               <postscript>
+                  <p>WE the Lord Lieutenant and Council, in pursuance of the aforesaid Letters, do hereby publish the said Proclamation: And do require all persons concerned to take notice of His Majesty's pleasure thereby signified, and to yield Obedience thereunto.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given at the Council-Chamber in</hi> Dublin, <date>
+                           <hi>this Eleventh day of February,</hi> 1684.</date>
+                     </dateline>
+                     <signed>Mich. Armach. C. Franc: Dublin, Roscommon, Droghedah, Arran, Lougford, Granard, Blesinton, Mountjoy, Will. Kildare, H Boyle, Rich. Coote. Char: Meredith, Will: Davys, John Keating, He: Hene, John Davys, Rich: Reynell, John Cole, Mau: Eustace, C: Wich, Tho: Newcomen, Adam Loftus.</signed>
+                  </closer>
+               </postscript>
+               <closer>God save the King.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> printed by <hi>Benjamin Tooke,</hi> printer to the Kings most Excellent Majesty, and are to be sold by <hi>Andrew Crook</hi> in <hi>Skinner-Row,</hi> and <hi>Samuel Helsham</hi> at the <hi>Col<g ref="char:EOLhyphen"/>ledge-Arms</hi> in <hi>Castle-Street.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
